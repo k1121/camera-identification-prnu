@@ -262,43 +262,10 @@ CONTACT AND SUPPORT
 ================================================================================
 
 For questions or issues:
-  - Check documentation files (FILE_STRUCTURE.md, etc.)
   - Review troubleshooting section above
   - Open GitHub issues if code is on GitHub
 
 For research collaboration:
   - Contact information available on GitHub profile
 
-CHANGELOG
-================================================================================
 
-Version 1.0.0 (January 2026)
-  - Initial release
-  - 5 core MATLAB scripts
-  - 11 filtering methods
-  - 7 correlation metrics
-  - Complete documentation
-  - Multiple installation guides
-
-ACKNOWLEDGMENTS
-================================================================================
-
-This code implements methods and algorithms described in academic literature
-on camera identification and digital forensics.
-
-References cited above acknowledge the original theoretical contributions.
-
-================================================================================
-                            END OF README
-================================================================================
-
-For more information, see accompanying documentation files:
-  - FILE_STRUCTURE.md    - Detailed file and folder descriptions
-  - GITHUB_WEB_UPLOAD.md - Instructions for GitHub upload
-  - SUMMARY.md           - Complete project summary
-
-Last updated: January 15, 2026
-Language: English
-Status: Ready for production use
-
-================================================================================
