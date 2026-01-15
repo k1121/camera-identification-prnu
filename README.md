@@ -24,33 +24,6 @@ This repository contains MATLAB scripts for extracting and analyzing the PRNU fi
 - Systematic evaluation across multiple parameter configurations
 - CSV export for statistical analysis
 
-
-## Repository Structure
-
-```
-camera-identification-prnu/
-├── scripts/
-│   ├── 01_Light_Image_DSNU.m          # Load and average reference images
-│   ├── 02_MedFilt.m                   # Median filter evaluation function
-│   ├── 03_MedTable.m                  # Parameter sweep for median filtering
-│   ├── 04_PRNU_DSNU.m                 # PRNU fingerprint extraction
-│   └── 05_calculate_metrics_new.m     # Main analysis pipeline
-│
-│
-├── data/                              # Image data (see below)
-│   ├── light_images/                  # 400+ frames under uniform illumination
-│   ├── dark_images/                   # 320+ frames with lens cap on
-│   └── test_images/                   # Test scene images
-│
-├── results/                           # Auto-generated analysis outputs
-│   ├── Light_image.mat                # Average illumination pattern
-│   ├── DSNU.mat                       # Dark signal non-uniformity
-│   ├── PRNU.mat                       # Camera fingerprint
-│   └── Results_*.csv                  # Analysis results
-│
-└── README.md                          # This file
-```
-
 ## Dataset Access
 
 **Note:** The image datasets are not stored in this GitHub repository due to file size constraints.
