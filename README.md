@@ -32,7 +32,7 @@ This repository contains MATLAB scripts for extracting and analyzing the PRNU fi
 
 The required image datasets (light reference images, dark reference images, and test images) are hosted on a cloud drive:
 
-🔗 **[Download Datasets from Cloud Drive](LINK_TO_YOUR_CLOUD_DRIVE_HERE)**
+LINK
 
 ## System Requirements
 
