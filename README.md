@@ -17,17 +17,13 @@ This repository contains MATLAB scripts for extracting and analyzing the PRNU fi
 - Systematic parameter search and optimization
 
 **Metric Computation**
-- 7 correlation metrics: PCC, NSKO, NSKO1, PCE, POC, SER, SSIM
+- 6 correlation metrics: PCC, NSTD, PCE, POC, SER, SSIM
 - Quality assessment and validation
 
 **Batch Processing**
 - Systematic evaluation across multiple parameter configurations
 - CSV export for statistical analysis
 
-**Complete Documentation**
-- Comprehensive English documentation
-- Usage examples and troubleshooting guide
-- Parameter customization instructions
 
 ## Repository Structure
 
