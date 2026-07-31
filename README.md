@@ -142,6 +142,8 @@ CurrentImage = CurrentImage ./ 64;     % Adjust as needed
 | SSIM | Structural Similarity Index |
 | Param_* | Filter-specific parameters |
 
+More information can be found in the paper:  
+> Kerov A.A., Kozlov A.V., Cheremkhin P.A., et al. Enhancing PRNU-based camera identification by denoising filters and similarity metrics. Journal of Forensic Sciences 2026, in print.
 
 ## Contact and Support
 
